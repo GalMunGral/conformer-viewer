@@ -1,0 +1,11300 @@
+# wavefront mtl file written by the visualization toolkit
+
+newmtl mtl1
+Ka 0 0 0
+Kd 1 1 0
+Ks 0 0 0
+Ns 100
+Tr 0.1
+illum 3
+newmtl mtl104833
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl104906
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl104979
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105026
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105073
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105114
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105155
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105200
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105245
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105302
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105359
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105400
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105441
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105494
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105547
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105598
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105649
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105690
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105731
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105788
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105845
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105894
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105943
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl105996
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106049
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106098
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106147
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106190
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106233
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106286
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106339
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106398
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106457
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106508
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106559
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106604
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106649
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106690
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106731
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106774
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106817
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106874
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106931
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl106972
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107013
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107062
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107111
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107154
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107197
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107246
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107295
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107340
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107385
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107432
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107479
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107512
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107545
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107594
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107643
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107686
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107729
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107768
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107807
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107848
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107889
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107930
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl107971
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108014
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108057
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108143
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108186
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108229
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108270
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108311
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108348
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108385
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108424
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108463
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108508
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108553
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108588
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108623
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108670
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108717
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108758
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108799
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108844
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108889
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108934
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl108979
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109022
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109065
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109120
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109175
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109214
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109253
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109296
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109339
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109412
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109485
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109534
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109583
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109624
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109665
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109704
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109743
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109778
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109813
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109858
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109903
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109948
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl109993
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110036
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110079
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110122
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110165
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110222
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110279
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110324
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110369
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110454
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110539
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110584
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110629
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110686
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110743
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110790
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110837
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110878
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110919
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl110962
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111005
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111048
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111091
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111156
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111221
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111262
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111303
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111342
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111381
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111434
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111487
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111524
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111561
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111600
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111639
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111684
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111729
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111784
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111839
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111878
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111917
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl111990
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112063
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112102
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112141
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112190
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112239
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112292
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112345
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112406
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112467
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112506
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112545
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112598
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112651
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112710
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112769
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112818
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112867
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112916
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl112965
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113012
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113059
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113132
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113205
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113244
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113283
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113324
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113365
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113458
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113551
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113594
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113637
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113680
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113723
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113768
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113813
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113854
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113895
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113938
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl113981
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114030
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114079
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114132
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114185
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114228
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114271
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114314
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114357
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114398
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114439
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114480
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114521
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114562
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114603
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114642
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114681
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114716
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114751
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114798
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114845
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114876
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114907
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114952
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl114997
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115038
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115079
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115136
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115193
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115242
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115291
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115338
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115385
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115438
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115491
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115540
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115589
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115626
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115663
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115708
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115753
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115800
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115847
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115894
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115941
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl115994
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116047
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116096
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116145
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116180
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116215
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116266
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116317
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116364
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116411
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116452
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116493
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116534
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116575
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116628
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116681
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116720
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116759
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116802
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116845
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116894
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116943
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl116988
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117033
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117072
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117111
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117152
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117193
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117238
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117283
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117340
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117397
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117450
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117503
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117544
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117585
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117628
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117671
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117716
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117761
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117796
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117831
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117868
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117905
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117944
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl117983
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118060
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118137
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118202
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118267
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118308
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118349
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118396
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118443
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118488
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118533
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118576
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118619
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118670
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118721
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118762
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118803
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118842
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118881
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118920
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl118959
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119006
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119053
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119114
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119175
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119216
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119257
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119306
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119355
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119404
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119453
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119494
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119535
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119576
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119617
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119694
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119771
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119812
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119853
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119890
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119927
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl119974
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120021
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120064
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120107
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120150
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120193
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120238
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120283
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120330
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120377
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120414
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120451
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120496
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120541
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120596
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120651
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120690
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120729
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120774
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120819
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120862
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120905
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120952
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl120999
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121042
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121085
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121118
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121151
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121190
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121229
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121266
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121303
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121348
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121393
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121432
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121471
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121512
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121553
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121594
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121635
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121688
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121741
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121776
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121811
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121850
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121889
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121936
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl121983
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122022
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122061
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122102
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122143
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122188
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122233
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122278
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122323
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122370
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122417
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122470
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122523
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122562
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122601
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122662
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122723
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122766
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122809
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122838
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122867
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122914
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl122961
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123010
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123059
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123108
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123157
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123210
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123263
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123302
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123341
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123388
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123435
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123484
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123533
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123576
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123619
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123658
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123697
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123738
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123779
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123828
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123877
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123924
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl123971
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124012
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124053
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124096
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124139
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124176
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124213
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124256
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124299
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124342
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124385
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124438
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124491
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124544
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124597
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124654
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124711
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124756
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124801
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124846
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124891
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124942
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl124993
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125066
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125139
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125180
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125221
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125266
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125311
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125352
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125393
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125436
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125479
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125518
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125557
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125630
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125703
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125752
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125801
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125842
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125883
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl125976
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126069
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126106
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126143
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126188
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126233
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126278
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126323
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126374
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126425
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126474
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126523
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126576
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126629
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126682
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126735
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126784
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126833
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126874
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126915
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl126962
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127009
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127050
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127091
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127138
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127185
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127228
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127271
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127316
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127361
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127400
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127439
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127482
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127525
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127594
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127663
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127704
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127745
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127802
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127859
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127904
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127949
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl127996
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128043
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128084
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128125
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128168
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128211
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128252
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128293
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128334
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128375
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128414
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128453
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128502
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128551
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128606
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128661
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128700
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128739
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128784
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128829
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128876
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128923
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl128988
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129053
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129102
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129151
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129194
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129237
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129280
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129323
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129374
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129425
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129470
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129515
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129554
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129593
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129628
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129663
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129708
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129753
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129798
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129843
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129896
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl129949
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130018
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130087
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130136
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130185
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130228
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130271
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130324
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130377
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130410
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130443
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130492
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130541
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130584
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130627
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130688
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130749
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130794
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130839
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130880
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130921
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl130964
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131007
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131058
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131109
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131152
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131195
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131244
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131293
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131346
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131399
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131448
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131497
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131546
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131595
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131636
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131677
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131724
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131771
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131814
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131857
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131896
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131935
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl131988
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132041
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132084
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132127
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132168
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132209
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132256
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132303
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132340
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132377
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132422
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132467
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132516
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132565
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132626
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132687
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132736
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132785
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132838
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132891
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132932
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl132973
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133012
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133051
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133106
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133161
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133206
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133251
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133298
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133345
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133386
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133427
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133476
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133525
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133594
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133663
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133714
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133765
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133808
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133851
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133900
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133949
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl133994
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134039
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134084
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134129
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134170
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134211
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134256
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134301
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134370
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134439
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134492
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134545
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134578
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134611
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134650
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134689
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134738
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134787
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134832
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134877
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134916
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134955
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl134982
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135009
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135052
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135095
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135168
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135241
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135290
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135339
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135390
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135441
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135494
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135547
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135602
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135657
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135702
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135747
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135786
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135825
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135866
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135907
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl135960
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136013
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136062
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136111
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136158
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136205
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136250
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136295
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136340
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136385
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136424
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136463
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136520
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136577
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136616
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136655
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136700
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136745
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136798
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136851
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136898
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136945
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl136996
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137047
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137088
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137129
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137170
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137211
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137264
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137317
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137364
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137411
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137460
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137509
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137554
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137599
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137648
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137697
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137738
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137779
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137820
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137861
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137920
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl137979
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138026
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138073
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138112
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138151
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138220
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138289
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138338
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138387
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138428
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138469
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138502
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138535
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138578
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138621
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138666
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138711
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138756
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138801
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138844
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138887
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138934
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl138981
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139042
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139103
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139150
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139197
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139244
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139291
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139318
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139345
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139388
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139431
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139472
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139513
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139564
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139615
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139652
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139689
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139734
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139779
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139824
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139869
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139916
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl139963
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140050
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140137
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140200
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140263
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140308
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140353
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140426
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140499
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140544
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140589
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140658
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140727
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140774
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140821
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140870
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140919
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl140964
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141009
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141056
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141103
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141146
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141189
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141226
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141263
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141320
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141377
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141422
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141467
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141506
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141545
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141586
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141627
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141672
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141717
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141758
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141799
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141842
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141885
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141926
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl141967
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142012
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142057
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142126
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142195
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142236
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142277
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142320
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142363
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142418
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142473
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142524
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142575
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142616
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142657
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142710
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142763
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142806
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142849
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142892
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142935
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl142988
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143041
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143086
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143131
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143200
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143269
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143322
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143375
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143428
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143481
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143530
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143579
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143624
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143669
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143708
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143747
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143792
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143837
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143882
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143927
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl143970
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144013
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144058
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144103
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144146
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144189
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144230
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144271
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144316
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144361
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144404
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144447
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144516
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144585
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144644
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144703
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144748
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144793
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144838
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144883
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144922
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl144961
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145004
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145047
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145088
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145129
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145168
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145207
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145250
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145293
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145338
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145383
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145426
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145469
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145514
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145559
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145614
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145669
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145710
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145751
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145796
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145841
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145880
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145919
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145958
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl145997
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146042
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146087
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146128
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146169
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146210
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146251
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146296
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146341
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146382
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146423
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146462
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146501
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146548
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146595
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146658
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146721
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146764
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146807
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146860
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146913
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl146960
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147007
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147054
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147101
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147158
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147215
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147260
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147305
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147356
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147407
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147446
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147485
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147530
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147575
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147618
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147661
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147704
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147747
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147800
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147853
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147900
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147947
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl147994
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148041
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148086
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148131
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148176
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148221
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148262
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148303
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148342
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148381
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148434
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148487
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148528
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148569
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148630
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148691
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148738
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148785
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148838
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148891
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148936
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl148981
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149034
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149087
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149126
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149165
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149216
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149267
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149308
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149349
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149400
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149451
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149490
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149529
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149590
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149651
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149700
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149749
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149818
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149887
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149940
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl149993
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150046
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150099
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150140
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150181
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150220
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150259
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150314
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150369
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150396
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150423
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150480
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150537
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150590
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150643
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150716
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150789
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150836
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150883
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150926
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl150969
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151014
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151059
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151144
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151229
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151272
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151315
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151356
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151397
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151454
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151511
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151568
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151625
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151686
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151747
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151786
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151825
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151866
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151907
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151952
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl151997
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152036
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152075
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152120
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152165
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152206
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152247
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152292
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152337
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152400
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152463
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152504
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152545
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152586
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152627
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152674
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152721
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152762
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152803
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152862
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152921
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl152976
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153031
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153084
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153137
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153186
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153235
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153282
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153329
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153372
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153415
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153458
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153501
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153546
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153591
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153622
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153653
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153706
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153759
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153804
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153849
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153894
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153939
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl153984
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154029
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154072
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154115
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154160
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154205
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154292
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154379
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154424
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154469
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154516
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154563
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154606
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154649
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154688
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154727
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154768
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154809
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154848
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154887
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154942
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl154997
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155050
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155103
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155150
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155197
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155238
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155279
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155334
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155389
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155432
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155475
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155514
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155553
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155646
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155739
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155780
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155821
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155864
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155907
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155950
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl155993
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156022
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156051
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156094
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156137
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156186
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156235
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156270
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156305
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156356
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156407
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156460
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156513
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156560
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156607
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156654
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156701
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156744
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156787
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156828
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156869
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156918
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl156967
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157016
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157065
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157106
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157147
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157184
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157221
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157262
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157303
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157344
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157385
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157432
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157479
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157520
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157561
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157604
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157647
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157716
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157785
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157822
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157859
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157902
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157945
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl157982
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158019
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158062
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158105
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158160
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158215
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158258
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158301
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158332
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158363
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158404
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158445
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158488
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158531
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158580
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158629
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158692
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158755
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158790
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158825
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158868
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158911
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158952
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl158993
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159040
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159087
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159134
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159181
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159224
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159267
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159332
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159397
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159438
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159479
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159522
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159565
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159612
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159659
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159718
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159777
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159822
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159867
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159914
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl159961
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160016
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160071
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160116
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160161
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160202
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160243
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160286
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160329
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160402
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160475
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160538
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160601
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160642
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160683
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160734
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160785
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160826
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160867
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160906
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160945
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl160994
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161043
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161088
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161133
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161178
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161223
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161262
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161301
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161346
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161391
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161442
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161493
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161546
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161599
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161636
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161673
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161714
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161755
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161796
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161837
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161876
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161915
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161954
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl161993
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162036
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162079
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162134
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162189
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162236
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162283
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162332
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162381
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162438
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162495
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162534
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162573
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162622
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162671
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162710
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162749
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162792
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162835
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162876
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162917
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl162964
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163011
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163058
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163105
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163132
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163159
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163202
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163245
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163290
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163335
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163396
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163457
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163500
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163543
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163588
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163633
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163710
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163787
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163842
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163897
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163938
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl163979
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164024
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164069
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164132
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164195
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164232
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164269
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164310
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164351
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164400
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164449
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164492
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164535
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164574
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164613
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164658
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164703
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164768
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164833
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164880
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164927
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl164972
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165017
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165064
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165111
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165152
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165193
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165246
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165299
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165356
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165413
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165452
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165491
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165532
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165573
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165614
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165655
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165690
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165725
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165764
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165803
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165848
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165893
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165932
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl165971
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166014
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166057
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166098
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166139
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166184
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166229
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166270
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166311
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166352
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166393
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166450
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166507
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166548
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166589
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166638
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166687
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166730
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166773
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166814
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166855
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl166940
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167025
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167074
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167123
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167168
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167213
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167260
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167307
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167358
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167409
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167452
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167495
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167540
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167585
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167654
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167723
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167772
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167821
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167864
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167907
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167948
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl167989
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168042
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168095
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168140
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168185
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168224
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168263
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168304
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168345
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168402
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168459
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168516
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168573
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168618
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168663
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168706
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168749
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168786
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168823
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168880
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168937
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl168978
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169019
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169062
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169105
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169152
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169199
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169242
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169285
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169330
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169375
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169420
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169465
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169510
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169555
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169596
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169637
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169680
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169723
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169796
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169869
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169912
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169955
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl169998
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170041
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170088
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170135
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170174
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170213
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170256
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170299
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170352
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170405
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170446
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170487
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170526
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170565
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170612
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170659
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170698
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170737
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170798
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170859
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170900
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170941
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl170982
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171023
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171064
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171105
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171174
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171243
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171284
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171325
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171388
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171451
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171494
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171537
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171580
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171623
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171670
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171717
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171766
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171815
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171872
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171929
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl171970
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172011
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172060
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172109
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172162
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172215
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172262
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172309
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172362
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172415
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172462
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172509
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172554
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172599
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172664
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172729
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172782
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172835
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172874
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172913
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl172960
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173007
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173038
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173069
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173122
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173175
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173218
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173261
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173304
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173347
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173388
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173429
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173478
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173527
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173568
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173609
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173654
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173699
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173750
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173801
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173834
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173867
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173910
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173953
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl173998
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174043
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174104
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174165
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174210
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174255
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174300
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174345
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174384
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174423
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174462
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174501
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174550
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174599
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174642
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174685
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174728
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174771
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174824
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174877
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174922
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl174967
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175008
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175049
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175092
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175135
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175174
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175213
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175266
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175319
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175366
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175413
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175468
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175523
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175592
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175661
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175706
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175751
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175796
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175841
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175882
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175923
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl175976
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176029
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176076
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176123
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176162
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176201
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176250
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176299
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176340
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176381
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176422
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176463
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176556
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176649
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176696
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176743
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176786
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176829
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176914
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl176999
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177040
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177081
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177120
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177159
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177196
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177233
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177278
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177323
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177376
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177429
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177478
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177527
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177572
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177617
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177660
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177703
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177776
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177849
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177890
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177931
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl177972
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178013
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178060
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178107
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178144
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178181
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178238
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178295
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178340
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178385
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178434
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178483
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178538
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178593
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178670
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178747
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178792
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178837
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178878
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178919
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl178962
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179005
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179048
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179091
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179134
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179177
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179240
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179303
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179348
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179393
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179440
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179487
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179542
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179597
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179640
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179683
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179724
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179765
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179808
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179851
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179898
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179945
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl179988
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180031
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180074
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180117
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180162
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180207
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180258
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180309
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180364
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180419
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180476
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 100
+Tr 0.05
+illum 3
+newmtl mtl180533
+Ka 0 0 0
+Kd 1 1 0
+Ks 0 0 0
+Ns 100
+Tr 0.7
+illum 3
