@@ -12802,12 +12802,12 @@
   function UniformsCache() {
     const lights = {};
     return {
-      get: function(light2) {
-        if (lights[light2.id] !== void 0) {
-          return lights[light2.id];
+      get: function(light) {
+        if (lights[light.id] !== void 0) {
+          return lights[light.id];
         }
         let uniforms;
-        switch (light2.type) {
+        switch (light.type) {
           case "DirectionalLight":
             uniforms = {
               direction: new Vector3(),
@@ -12849,7 +12849,7 @@
             };
             break;
         }
-        lights[light2.id] = uniforms;
+        lights[light.id] = uniforms;
         return uniforms;
       }
     };
@@ -12857,12 +12857,12 @@
   function ShadowUniformsCache() {
     const lights = {};
     return {
-      get: function(light2) {
-        if (lights[light2.id] !== void 0) {
-          return lights[light2.id];
+      get: function(light) {
+        if (lights[light.id] !== void 0) {
+          return lights[light.id];
         }
         let uniforms;
-        switch (light2.type) {
+        switch (light.type) {
           case "DirectionalLight":
             uniforms = {
               shadowBias: 0,
@@ -12890,7 +12890,7 @@
             };
             break;
         }
-        lights[light2.id] = uniforms;
+        lights[light.id] = uniforms;
         return uniforms;
       }
     };
@@ -12961,57 +12961,57 @@
       lights.sort(shadowCastingAndTexturingLightsFirst);
       const scaleFactor = useLegacyLights === true ? Math.PI : 1;
       for (let i = 0, l = lights.length; i < l; i++) {
-        const light2 = lights[i];
-        const color = light2.color;
-        const intensity = light2.intensity;
-        const distance = light2.distance;
-        const shadowMap = light2.shadow && light2.shadow.map ? light2.shadow.map.texture : null;
-        if (light2.isAmbientLight) {
+        const light = lights[i];
+        const color = light.color;
+        const intensity = light.intensity;
+        const distance = light.distance;
+        const shadowMap = light.shadow && light.shadow.map ? light.shadow.map.texture : null;
+        if (light.isAmbientLight) {
           r += color.r * intensity * scaleFactor;
           g += color.g * intensity * scaleFactor;
           b += color.b * intensity * scaleFactor;
-        } else if (light2.isLightProbe) {
+        } else if (light.isLightProbe) {
           for (let j = 0; j < 9; j++) {
-            state.probe[j].addScaledVector(light2.sh.coefficients[j], intensity);
+            state.probe[j].addScaledVector(light.sh.coefficients[j], intensity);
           }
           numLightProbes++;
-        } else if (light2.isDirectionalLight) {
-          const uniforms = cache.get(light2);
-          uniforms.color.copy(light2.color).multiplyScalar(light2.intensity * scaleFactor);
-          if (light2.castShadow) {
-            const shadow = light2.shadow;
-            const shadowUniforms = shadowCache.get(light2);
+        } else if (light.isDirectionalLight) {
+          const uniforms = cache.get(light);
+          uniforms.color.copy(light.color).multiplyScalar(light.intensity * scaleFactor);
+          if (light.castShadow) {
+            const shadow = light.shadow;
+            const shadowUniforms = shadowCache.get(light);
             shadowUniforms.shadowBias = shadow.bias;
             shadowUniforms.shadowNormalBias = shadow.normalBias;
             shadowUniforms.shadowRadius = shadow.radius;
             shadowUniforms.shadowMapSize = shadow.mapSize;
             state.directionalShadow[directionalLength] = shadowUniforms;
             state.directionalShadowMap[directionalLength] = shadowMap;
-            state.directionalShadowMatrix[directionalLength] = light2.shadow.matrix;
+            state.directionalShadowMatrix[directionalLength] = light.shadow.matrix;
             numDirectionalShadows++;
           }
           state.directional[directionalLength] = uniforms;
           directionalLength++;
-        } else if (light2.isSpotLight) {
-          const uniforms = cache.get(light2);
-          uniforms.position.setFromMatrixPosition(light2.matrixWorld);
+        } else if (light.isSpotLight) {
+          const uniforms = cache.get(light);
+          uniforms.position.setFromMatrixPosition(light.matrixWorld);
           uniforms.color.copy(color).multiplyScalar(intensity * scaleFactor);
           uniforms.distance = distance;
-          uniforms.coneCos = Math.cos(light2.angle);
-          uniforms.penumbraCos = Math.cos(light2.angle * (1 - light2.penumbra));
-          uniforms.decay = light2.decay;
+          uniforms.coneCos = Math.cos(light.angle);
+          uniforms.penumbraCos = Math.cos(light.angle * (1 - light.penumbra));
+          uniforms.decay = light.decay;
           state.spot[spotLength] = uniforms;
-          const shadow = light2.shadow;
-          if (light2.map) {
-            state.spotLightMap[numSpotMaps] = light2.map;
+          const shadow = light.shadow;
+          if (light.map) {
+            state.spotLightMap[numSpotMaps] = light.map;
             numSpotMaps++;
-            shadow.updateMatrices(light2);
-            if (light2.castShadow)
+            shadow.updateMatrices(light);
+            if (light.castShadow)
               numSpotShadowsWithMaps++;
           }
           state.spotLightMatrix[spotLength] = shadow.matrix;
-          if (light2.castShadow) {
-            const shadowUniforms = shadowCache.get(light2);
+          if (light.castShadow) {
+            const shadowUniforms = shadowCache.get(light);
             shadowUniforms.shadowBias = shadow.bias;
             shadowUniforms.shadowNormalBias = shadow.normalBias;
             shadowUniforms.shadowRadius = shadow.radius;
@@ -13021,21 +13021,21 @@
             numSpotShadows++;
           }
           spotLength++;
-        } else if (light2.isRectAreaLight) {
-          const uniforms = cache.get(light2);
+        } else if (light.isRectAreaLight) {
+          const uniforms = cache.get(light);
           uniforms.color.copy(color).multiplyScalar(intensity);
-          uniforms.halfWidth.set(light2.width * 0.5, 0, 0);
-          uniforms.halfHeight.set(0, light2.height * 0.5, 0);
+          uniforms.halfWidth.set(light.width * 0.5, 0, 0);
+          uniforms.halfHeight.set(0, light.height * 0.5, 0);
           state.rectArea[rectAreaLength] = uniforms;
           rectAreaLength++;
-        } else if (light2.isPointLight) {
-          const uniforms = cache.get(light2);
-          uniforms.color.copy(light2.color).multiplyScalar(light2.intensity * scaleFactor);
-          uniforms.distance = light2.distance;
-          uniforms.decay = light2.decay;
-          if (light2.castShadow) {
-            const shadow = light2.shadow;
-            const shadowUniforms = shadowCache.get(light2);
+        } else if (light.isPointLight) {
+          const uniforms = cache.get(light);
+          uniforms.color.copy(light.color).multiplyScalar(light.intensity * scaleFactor);
+          uniforms.distance = light.distance;
+          uniforms.decay = light.decay;
+          if (light.castShadow) {
+            const shadow = light.shadow;
+            const shadowUniforms = shadowCache.get(light);
             shadowUniforms.shadowBias = shadow.bias;
             shadowUniforms.shadowNormalBias = shadow.normalBias;
             shadowUniforms.shadowRadius = shadow.radius;
@@ -13044,15 +13044,15 @@
             shadowUniforms.shadowCameraFar = shadow.camera.far;
             state.pointShadow[pointLength] = shadowUniforms;
             state.pointShadowMap[pointLength] = shadowMap;
-            state.pointShadowMatrix[pointLength] = light2.shadow.matrix;
+            state.pointShadowMatrix[pointLength] = light.shadow.matrix;
             numPointShadows++;
           }
           state.point[pointLength] = uniforms;
           pointLength++;
-        } else if (light2.isHemisphereLight) {
-          const uniforms = cache.get(light2);
-          uniforms.skyColor.copy(light2.color).multiplyScalar(intensity * scaleFactor);
-          uniforms.groundColor.copy(light2.groundColor).multiplyScalar(intensity * scaleFactor);
+        } else if (light.isHemisphereLight) {
+          const uniforms = cache.get(light);
+          uniforms.skyColor.copy(light.color).multiplyScalar(intensity * scaleFactor);
+          uniforms.groundColor.copy(light.groundColor).multiplyScalar(intensity * scaleFactor);
           state.hemi[hemiLength] = uniforms;
           hemiLength++;
         }
@@ -13109,44 +13109,44 @@
       let hemiLength = 0;
       const viewMatrix = camera.matrixWorldInverse;
       for (let i = 0, l = lights.length; i < l; i++) {
-        const light2 = lights[i];
-        if (light2.isDirectionalLight) {
+        const light = lights[i];
+        if (light.isDirectionalLight) {
           const uniforms = state.directional[directionalLength];
-          uniforms.direction.setFromMatrixPosition(light2.matrixWorld);
-          vector3.setFromMatrixPosition(light2.target.matrixWorld);
+          uniforms.direction.setFromMatrixPosition(light.matrixWorld);
+          vector3.setFromMatrixPosition(light.target.matrixWorld);
           uniforms.direction.sub(vector3);
           uniforms.direction.transformDirection(viewMatrix);
           directionalLength++;
-        } else if (light2.isSpotLight) {
+        } else if (light.isSpotLight) {
           const uniforms = state.spot[spotLength];
-          uniforms.position.setFromMatrixPosition(light2.matrixWorld);
+          uniforms.position.setFromMatrixPosition(light.matrixWorld);
           uniforms.position.applyMatrix4(viewMatrix);
-          uniforms.direction.setFromMatrixPosition(light2.matrixWorld);
-          vector3.setFromMatrixPosition(light2.target.matrixWorld);
+          uniforms.direction.setFromMatrixPosition(light.matrixWorld);
+          vector3.setFromMatrixPosition(light.target.matrixWorld);
           uniforms.direction.sub(vector3);
           uniforms.direction.transformDirection(viewMatrix);
           spotLength++;
-        } else if (light2.isRectAreaLight) {
+        } else if (light.isRectAreaLight) {
           const uniforms = state.rectArea[rectAreaLength];
-          uniforms.position.setFromMatrixPosition(light2.matrixWorld);
+          uniforms.position.setFromMatrixPosition(light.matrixWorld);
           uniforms.position.applyMatrix4(viewMatrix);
           matrix42.identity();
-          matrix4.copy(light2.matrixWorld);
+          matrix4.copy(light.matrixWorld);
           matrix4.premultiply(viewMatrix);
           matrix42.extractRotation(matrix4);
-          uniforms.halfWidth.set(light2.width * 0.5, 0, 0);
-          uniforms.halfHeight.set(0, light2.height * 0.5, 0);
+          uniforms.halfWidth.set(light.width * 0.5, 0, 0);
+          uniforms.halfHeight.set(0, light.height * 0.5, 0);
           uniforms.halfWidth.applyMatrix4(matrix42);
           uniforms.halfHeight.applyMatrix4(matrix42);
           rectAreaLength++;
-        } else if (light2.isPointLight) {
+        } else if (light.isPointLight) {
           const uniforms = state.point[pointLength];
-          uniforms.position.setFromMatrixPosition(light2.matrixWorld);
+          uniforms.position.setFromMatrixPosition(light.matrixWorld);
           uniforms.position.applyMatrix4(viewMatrix);
           pointLength++;
-        } else if (light2.isHemisphereLight) {
+        } else if (light.isHemisphereLight) {
           const uniforms = state.hemi[hemiLength];
-          uniforms.direction.setFromMatrixPosition(light2.matrixWorld);
+          uniforms.direction.setFromMatrixPosition(light.matrixWorld);
           uniforms.direction.transformDirection(viewMatrix);
           hemiLength++;
         }
@@ -13166,8 +13166,8 @@
       lightsArray.length = 0;
       shadowsArray.length = 0;
     }
-    function pushLight(light2) {
-      lightsArray.push(light2);
+    function pushLight(light) {
+      lightsArray.push(light);
     }
     function pushShadow(shadowLight) {
       shadowsArray.push(shadowLight);
@@ -13322,10 +13322,10 @@
       const toVSM = _previousType !== VSMShadowMap && this.type === VSMShadowMap;
       const fromVSM = _previousType === VSMShadowMap && this.type !== VSMShadowMap;
       for (let i = 0, il = lights.length; i < il; i++) {
-        const light2 = lights[i];
-        const shadow = light2.shadow;
+        const light = lights[i];
+        const shadow = light.shadow;
         if (shadow === void 0) {
-          console.warn("THREE.WebGLShadowMap:", light2, "has no shadow.");
+          console.warn("THREE.WebGLShadowMap:", light, "has no shadow.");
           continue;
         }
         if (shadow.autoUpdate === false && shadow.needsUpdate === false)
@@ -13352,7 +13352,7 @@
             shadow.map.dispose();
           }
           shadow.map = new WebGLRenderTarget(_shadowMapSize.x, _shadowMapSize.y, pars);
-          shadow.map.texture.name = light2.name + ".shadowMap";
+          shadow.map.texture.name = light.name + ".shadowMap";
           shadow.camera.updateProjectionMatrix();
         }
         _renderer.setRenderTarget(shadow.map);
@@ -13367,9 +13367,9 @@
             _viewportSize.y * viewport.w
           );
           _state.viewport(_viewport);
-          shadow.updateMatrices(light2, vp);
+          shadow.updateMatrices(light, vp);
           _frustum = shadow.getFrustum();
-          renderObject(scene2, camera, shadow.camera, light2, this.type);
+          renderObject(scene2, camera, shadow.camera, light, this.type);
         }
         if (shadow.isPointLightShadow !== true && this.type === VSMShadowMap) {
           VSMPass(shadow, camera);
@@ -13404,13 +13404,13 @@
       _renderer.clear();
       _renderer.renderBufferDirect(camera, null, geometry, shadowMaterialHorizontal, fullScreenMesh, null);
     }
-    function getDepthMaterial(object, material, light2, type) {
+    function getDepthMaterial(object, material, light, type) {
       let result = null;
-      const customMaterial = light2.isPointLight === true ? object.customDistanceMaterial : object.customDepthMaterial;
+      const customMaterial = light.isPointLight === true ? object.customDistanceMaterial : object.customDepthMaterial;
       if (customMaterial !== void 0) {
         result = customMaterial;
       } else {
-        result = light2.isPointLight === true ? _distanceMaterial : _depthMaterial;
+        result = light.isPointLight === true ? _distanceMaterial : _depthMaterial;
         if (_renderer.localClippingEnabled && material.clipShadows === true && Array.isArray(material.clippingPlanes) && material.clippingPlanes.length !== 0 || material.displacementMap && material.displacementScale !== 0 || material.alphaMap && material.alphaTest > 0 || material.map && material.alphaTest > 0) {
           const keyA = result.uuid, keyB = material.uuid;
           let materialsForVariant = _materialCache[keyA];
@@ -13445,13 +13445,13 @@
       result.displacementBias = material.displacementBias;
       result.wireframeLinewidth = material.wireframeLinewidth;
       result.linewidth = material.linewidth;
-      if (light2.isPointLight === true && result.isMeshDistanceMaterial === true) {
+      if (light.isPointLight === true && result.isMeshDistanceMaterial === true) {
         const materialProperties = _renderer.properties.get(result);
-        materialProperties.light = light2;
+        materialProperties.light = light;
       }
       return result;
     }
-    function renderObject(object, camera, shadowCamera, light2, type) {
+    function renderObject(object, camera, shadowCamera, light, type) {
       if (object.visible === false)
         return;
       const visible = object.layers.test(camera.layers);
@@ -13466,14 +13466,14 @@
               const group = groups[k];
               const groupMaterial = material[group.materialIndex];
               if (groupMaterial && groupMaterial.visible) {
-                const depthMaterial = getDepthMaterial(object, groupMaterial, light2, type);
+                const depthMaterial = getDepthMaterial(object, groupMaterial, light, type);
                 object.onBeforeShadow(_renderer, object, camera, shadowCamera, geometry, depthMaterial, group);
                 _renderer.renderBufferDirect(shadowCamera, null, geometry, depthMaterial, object, group);
                 object.onAfterShadow(_renderer, object, camera, shadowCamera, geometry, depthMaterial, group);
               }
             }
           } else if (material.visible) {
-            const depthMaterial = getDepthMaterial(object, material, light2, type);
+            const depthMaterial = getDepthMaterial(object, material, light, type);
             object.onBeforeShadow(_renderer, object, camera, shadowCamera, geometry, depthMaterial, null);
             _renderer.renderBufferDirect(shadowCamera, null, geometry, depthMaterial, object, null);
             object.onAfterShadow(_renderer, object, camera, shadowCamera, geometry, depthMaterial, null);
@@ -13482,7 +13482,7 @@
       }
       const children = object.children;
       for (let i = 0, l = children.length; i < l; i++) {
-        renderObject(children[i], camera, shadowCamera, light2, type);
+        renderObject(children[i], camera, shadowCamera, light, type);
       }
     }
     function onMaterialDispose(event) {
@@ -16537,10 +16537,10 @@ void main() {
       }
     }
     function refreshUniformsDistance(uniforms, material) {
-      const light2 = properties.get(material).light;
-      uniforms.referencePosition.value.setFromMatrixPosition(light2.matrixWorld);
-      uniforms.nearDistance.value = light2.shadow.camera.near;
-      uniforms.farDistance.value = light2.shadow.camera.far;
+      const light = properties.get(material).light;
+      uniforms.referencePosition.value.setFromMatrixPosition(light.matrixWorld);
+      uniforms.nearDistance.value = light.shadow.camera.near;
+      uniforms.farDistance.value = light.shadow.camera.far;
     }
     return {
       refreshFogUniforms,
@@ -20591,12 +20591,12 @@ void main() {
     getFrustum() {
       return this._frustum;
     }
-    updateMatrices(light2) {
+    updateMatrices(light) {
       const shadowCamera = this.camera;
       const shadowMatrix = this.matrix;
-      _lightPositionWorld$1.setFromMatrixPosition(light2.matrixWorld);
+      _lightPositionWorld$1.setFromMatrixPosition(light.matrixWorld);
       shadowCamera.position.copy(_lightPositionWorld$1);
-      _lookTarget$1.setFromMatrixPosition(light2.target.matrixWorld);
+      _lookTarget$1.setFromMatrixPosition(light.target.matrixWorld);
       shadowCamera.lookAt(_lookTarget$1);
       shadowCamera.updateMatrixWorld();
       _projScreenMatrix$1.multiplyMatrices(shadowCamera.projectionMatrix, shadowCamera.matrixWorldInverse);
@@ -20666,18 +20666,18 @@ void main() {
       this.isSpotLightShadow = true;
       this.focus = 1;
     }
-    updateMatrices(light2) {
+    updateMatrices(light) {
       const camera = this.camera;
-      const fov2 = RAD2DEG * 2 * light2.angle * this.focus;
+      const fov2 = RAD2DEG * 2 * light.angle * this.focus;
       const aspect2 = this.mapSize.width / this.mapSize.height;
-      const far = light2.distance || camera.far;
+      const far = light.distance || camera.far;
       if (fov2 !== camera.fov || aspect2 !== camera.aspect || far !== camera.far) {
         camera.fov = fov2;
         camera.aspect = aspect2;
         camera.far = far;
         camera.updateProjectionMatrix();
       }
-      super.updateMatrices(light2);
+      super.updateMatrices(light);
     }
     copy(source) {
       super.copy(source);
@@ -20772,15 +20772,15 @@ void main() {
         new Vector3(0, 0, -1)
       ];
     }
-    updateMatrices(light2, viewportIndex = 0) {
+    updateMatrices(light, viewportIndex = 0) {
       const camera = this.camera;
       const shadowMatrix = this.matrix;
-      const far = light2.distance || camera.far;
+      const far = light.distance || camera.far;
       if (far !== camera.far) {
         camera.far = far;
         camera.updateProjectionMatrix();
       }
-      _lightPositionWorld.setFromMatrixPosition(light2.matrixWorld);
+      _lightPositionWorld.setFromMatrixPosition(light.matrixWorld);
       camera.position.copy(_lightPositionWorld);
       _lookTarget.copy(camera.position);
       _lookTarget.add(this._cubeDirections[viewportIndex]);
@@ -20842,13 +20842,6 @@ void main() {
       this.target = source.target.clone();
       this.shadow = source.shadow.clone();
       return this;
-    }
-  };
-  var AmbientLight = class extends Light {
-    constructor(color, intensity) {
-      super(color, intensity);
-      this.isAmbientLight = true;
-      this.type = "AmbientLight";
     }
   };
   var LoaderUtils = class {
@@ -21335,75 +21328,6 @@ void main() {
     ]
   ];
   var _controlInterpolantsResultBuffer = new Float32Array(1);
-  var AxesHelper = class extends LineSegments {
-    constructor(size = 1) {
-      const vertices = [
-        0,
-        0,
-        0,
-        size,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        size,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        size
-      ];
-      const colors = [
-        1,
-        0,
-        0,
-        1,
-        0.6,
-        0,
-        0,
-        1,
-        0,
-        0.6,
-        1,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0.6,
-        1
-      ];
-      const geometry = new BufferGeometry();
-      geometry.setAttribute("position", new Float32BufferAttribute(vertices, 3));
-      geometry.setAttribute("color", new Float32BufferAttribute(colors, 3));
-      const material = new LineBasicMaterial({ vertexColors: true, toneMapped: false });
-      super(geometry, material);
-      this.type = "AxesHelper";
-    }
-    setColors(xAxisColor, yAxisColor, zAxisColor) {
-      const color = new Color();
-      const array = this.geometry.attributes.color.array;
-      color.set(xAxisColor);
-      color.toArray(array, 0);
-      color.toArray(array, 3);
-      color.set(yAxisColor);
-      color.toArray(array, 6);
-      color.toArray(array, 9);
-      color.set(zAxisColor);
-      color.toArray(array, 12);
-      color.toArray(array, 15);
-      this.geometry.attributes.color.needsUpdate = true;
-      return this;
-    }
-    dispose() {
-      this.geometry.dispose();
-      this.material.dispose();
-    }
-  };
   if (typeof __THREE_DEVTOOLS__ !== "undefined") {
     __THREE_DEVTOOLS__.dispatchEvent(new CustomEvent("register", { detail: {
       revision: REVISION
@@ -21795,8 +21719,8 @@ void main() {
       const lightIndex = lightDef.light;
       if (lightIndex === void 0)
         return null;
-      return this._loadLight(lightIndex).then(function(light2) {
-        return parser._getNodeRef(self2.cache, lightIndex, light2);
+      return this._loadLight(lightIndex).then(function(light) {
+        return parser._getNodeRef(self2.cache, lightIndex, light);
       });
     }
   };
@@ -24335,88 +24259,104 @@ void main() {
   }
 
   // index.ts
+  var slider = document.querySelector(
+    'input[type="range"]'
+  );
+  slider.min = "0";
+  slider.max = "99";
+  slider.step = "1";
+  var OFFSET = 8;
+  var SCALE_DOWN = 0.75;
+  var DEAFULT_OPACITY = 3e-3;
   var loader = new GLTFLoader();
   var dracoLoader = new DRACOLoader();
   dracoLoader.setDecoderPath("/draco/");
   loader.setDRACOLoader(dracoLoader);
   var scene = new Scene();
-  var light = new AmbientLight(16777215, 0.4);
-  scene.add(light);
-  var axesHelper = new AxesHelper(5);
-  scene.add(axesHelper);
   var transparency = true;
+  var lineSegments = [];
   loader.load(
     // resource URL
-    "GBCA/GBCA_ensembles.gltf",
+    "test.gltf",
+    //   "GBCA/GBCA_ensembles.gltf",
     // "nanotube/nanotube_.gltf",
     // called when the resource is loaded
     function(gltf) {
-      console.log(gltf);
-      scene.add(gltf.scene);
       gltf.animations;
       gltf.scene;
       gltf.scenes;
       gltf.cameras;
       gltf.asset;
+      gltf.scene.renderOrder = 1;
+      scene.add(gltf.scene);
+      scene.traverse((object) => {
+        if (object instanceof LineSegments) {
+          lineSegments.push(object);
+        }
+      });
       const renderer = new WebGLRenderer();
       renderer.setSize(window.innerWidth, window.innerHeight);
       document.body.append(renderer.domElement);
-      const camera = gltf.cameras[0];
+      const camera = new PerspectiveCamera();
       if (camera instanceof PerspectiveCamera) {
+        camera.fov = 75;
         camera.aspect = window.innerWidth / window.innerHeight;
+        camera.near = 0.1;
+        camera.far = 1e3;
         camera.updateProjectionMatrix();
       }
-      let objects = [];
+      let meshes = [];
       let points = [];
       (function getBoundingBox(object) {
         if (object instanceof Mesh) {
-          objects.push(object);
+          meshes.push(object);
           object.geometry.computeBoundingBox();
           const { min, max } = object.geometry.boundingBox;
           points.push(min.add(max).multiplyScalar(0.1));
           if (transparency && object.material instanceof MeshStandardMaterial) {
             object.material.transparent = true;
             object.material.blending = AdditiveBlending;
-            object.material.opacity = 0.1;
           }
         } else if (object instanceof LineSegments) {
-          objects.push(object);
+          meshes.push(object);
           object.geometry.computeBoundingBox();
           const { min, max } = object.geometry.boundingBox;
           points.push(min.add(max).multiplyScalar(0.5));
           if (object.material instanceof LineBasicMaterial) {
             object.material.transparent = true;
+            object.material.depthWrite = false;
             object.material.blending = AdditiveBlending;
-            object.material.opacity = 0.1;
+            object.material.opacity = DEAFULT_OPACITY;
           }
         }
         object.children?.forEach(getBoundingBox);
       })(scene);
-      let center = points.reduce((c, p) => c.add(p)).multiplyScalar(1 / points.length);
-      const offset = 50;
+      let center = points.reduce((c, p) => c.add(p), new Vector3()).multiplyScalar(1 / points.length);
+      const offset = 15;
       camera.position.set(
         center.x + offset,
         center.y + offset,
         center.z + offset
       );
+      camera.up = new Vector3(0, 0, 1);
       camera.lookAt(center);
-      const directionalLight = new DirectionalLight(16777215);
-      directionalLight.position.set(center.x + 1e3, center.y + 1e3, center.z);
-      scene.add(directionalLight);
       let pointerDown = false;
       let prevX = -1;
       let prevY = -1;
-      window.addEventListener("pointerdown", (e) => {
+      renderer.domElement.addEventListener("pointerdown", (e) => {
         pointerDown = true;
         prevX = e.clientX;
         prevY = e.clientY;
       });
-      window.addEventListener("pointerup", () => pointerDown = false);
-      window.addEventListener("pointermove", (e) => {
+      renderer.domElement.addEventListener(
+        "pointerup",
+        () => pointerDown = false
+      );
+      renderer.domElement.addEventListener("pointermove", (e) => {
         if (pointerDown) {
           let unproject2 = function(x, y) {
             const rect = renderer.domElement.getBoundingClientRect();
-            const z = camera.position.clone().normalize().multiplyScalar(1.5).project(camera).z;
+            const z = camera.position.clone().multiplyScalar(1 / 10).project(camera).z;
             return new Vector3(
               (x - rect.left) / rect.width * 2 - 1,
               (rect.bottom - y) / rect.height * 2 - 1,
@@ -24425,32 +24365,71 @@ void main() {
           };
           var unproject = unproject2;
           const axis = unproject2(e.clientX, e.clientY).sub(unproject2(prevX, prevY)).cross(camera.getWorldDirection(new Vector3())).normalize();
-          objects.forEach((o) => o.rotateOnWorldAxis(axis, 0.04));
+          scene.rotateOnWorldAxis(axis, 0.04);
           prevX = e.clientX;
           prevY = e.clientY;
         }
       });
+      function updateOpacity() {
+        for (let [i, line] of lineSegments.entries()) {
+          const m = line.material;
+          m.opacity = i === +slider.value ? 0.05 : 0;
+        }
+      }
+      function resetOpacity() {
+        for (let [i, line] of lineSegments.entries()) {
+          const m = line.material;
+          m.opacity = DEAFULT_OPACITY;
+        }
+      }
+      slider.oninput = () => {
+        updateOpacity();
+      };
+      let start = -1;
       const pressed = {};
-      window.onkeydown = (e) => pressed[e.key] = true;
-      window.onkeyup = (e) => pressed[e.key] = false;
+      window.onkeydown = (e) => {
+        pressed[e.key] = true;
+      };
+      window.onkeyup = (e) => {
+        pressed[e.key] = false;
+        if (e.key === " ") {
+          resetOpacity();
+          start = Date.now();
+        }
+      };
+      for (let mesh of lineSegments) {
+        mesh.userData["scale"] = 0.5 + Math.random();
+        mesh.userData["dir"] = new Vector3(
+          Math.random() - 0.5,
+          Math.random() - 0.5,
+          Math.random() - 0.5
+        ).normalize();
+      }
       let prev = -1;
-      function animate(t) {
+      function animate() {
+        const t = Date.now();
+        if (start > -1) {
+          const psi = 25e-4 * (Date.now() - start);
+          const u = 0.5 * (Math.sin(-Math.PI / 2 + Math.min(2 * Math.PI, psi)) + 1);
+          scene.traverse((object) => {
+            if (object instanceof LineSegments) {
+              const s = 1 - SCALE_DOWN * u;
+              object.scale.set(s, s, s);
+              object.material.opacity = DEAFULT_OPACITY + (5e-3 - DEAFULT_OPACITY) * u;
+              const p = object.userData["dir"].clone().multiplyScalar(object.userData["scale"] * OFFSET * u);
+              object.position.set(p.x, p.y, p.z);
+            }
+          });
+          if (psi > Math.PI * 2) {
+            start = -1;
+          }
+        }
+        if (!pointerDown) {
+          scene.rotateOnWorldAxis(new Vector3(0, 0, 1), 0.01);
+        }
         if (prev < 0)
           prev = t;
-        const theta = 8e-4 * (t - prev);
         const d = 0.01 * (t - prev);
-        if (pressed["ArrowDown"])
-          camera.rotateOnAxis(new Vector3(1, 0, 0), -theta);
-        if (pressed["ArrowUp"])
-          camera.rotateOnAxis(new Vector3(1, 0, 0), theta);
-        if (pressed["ArrowLeft"])
-          camera.rotateOnAxis(new Vector3(0, 1, 0), theta);
-        if (pressed["ArrowRight"])
-          camera.rotateOnAxis(new Vector3(0, 1, 0), -theta);
-        if (pressed["q"])
-          camera.rotateOnAxis(new Vector3(0, 0, 1), theta);
-        if (pressed["e"])
-          camera.rotateOnAxis(new Vector3(0, 0, 1), -theta);
         if (pressed["w"])
           camera.translateZ(-d);
         if (pressed["s"])
@@ -24470,7 +24449,7 @@ void main() {
     },
     // called when loading has errors
     function(error) {
-      console.log("An error happened");
+      console.log(error);
     }
   );
 })();

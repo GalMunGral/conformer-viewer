@@ -7,9 +7,26 @@
       body {
         margin: 0;
       }
+      .hover-visible {
+        opacity: 0;
+      }
+      .hover-visible:hover {
+        opacity: 1;
+      }
     </style>
   </head>
   <body>
+    <div
+      class="hover-visible"
+      style="
+        width: 100%;
+        box-sizing: border-box;
+        position: fixed;
+        padding: 20px;
+      "
+    >
+      <input type="range" style="width: 80%; display: block; margin: auto" />
+    </div>
     <script type="module" src="/index.js"></script>
   </body>
 </html>
