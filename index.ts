@@ -234,7 +234,10 @@ loader.load(
         }
       }
       if (!pointerDown) {
-        scene.rotateOnWorldAxis(new THREE.Vector3(0, 0, 1), 0.01);
+        scene.rotateOnWorldAxis(
+          new THREE.Vector3(0, 0, 1),
+          0.0005 * (t - prev)
+        );
       }
       if (prev < 0) prev = t;
 

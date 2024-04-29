@@ -24453,7 +24453,10 @@ void main() {
           }
         }
         if (!pointerDown) {
-          scene.rotateOnWorldAxis(new Vector3(0, 0, 1), 0.01);
+          scene.rotateOnWorldAxis(
+            new Vector3(0, 0, 1),
+            5e-4 * (t - prev)
+          );
         }
         if (prev < 0)
           prev = t;
