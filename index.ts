@@ -10,8 +10,9 @@ slider.min = "0";
 slider.max = "99";
 slider.step = "1";
 
-const OFFSET = 8;
-const SCALE_DOWN = 0.75;
+const CAMERA_OFFSET = 15;
+const OFFSET = 20;
+const SCALE_DOWN = 0.5;
 const DEAFULT_OPACITY = 0.003;
 
 // Instantiate a loader
@@ -23,6 +24,7 @@ dracoLoader.setDecoderPath("/draco/");
 loader.setDRACOLoader(dracoLoader);
 
 const scene = new THREE.Scene();
+scene.fog = new THREE.FogExp2(0x000000, 0.001);
 
 // const light = new THREE.AmbientLight(0xffffff, 1); // soft white light
 // scene.add(light);
@@ -108,14 +110,13 @@ loader.load(
       .reduce((c, p) => c.add(p), new THREE.Vector3())
       .multiplyScalar(1 / points.length);
 
-    const offset = 15;
     camera.position.set(
-      center.x + offset,
-      center.y + offset,
-      center.z + offset
+      center.x + CAMERA_OFFSET,
+      center.y + CAMERA_OFFSET,
+      center.z + CAMERA_OFFSET
     );
     camera.up = new THREE.Vector3(0, 0, 1);
-    camera.lookAt(center);
+    camera.lookAt(new THREE.Vector3());
 
     // White directional light at half intensity shining from the top.
     // const directionalLight = new THREE.DirectionalLight(0xffffff);
@@ -140,23 +141,25 @@ loader.load(
           const rect = renderer.domElement.getBoundingClientRect();
           const z = camera.position
             .clone()
-            // .normalize()
-            .multiplyScalar(1 / 10)
+            .multiplyScalar(0.2)
             .project(camera).z;
 
           return new THREE.Vector3(
             ((x - rect.left) / rect.width) * 2 - 1,
             ((rect.bottom - y) / rect.height) * 2 - 1,
             z
-          ).unproject(camera);
+          )
+            .unproject(camera)
+            .normalize();
         }
 
-        const axis = unproject(e.clientX, e.clientY)
-          .sub(unproject(prevX, prevY))
-          .cross(camera.getWorldDirection(new THREE.Vector3()))
-          .normalize();
+        const quaternion = new THREE.Quaternion();
+        quaternion.setFromUnitVectors(
+          unproject(prevX, prevY),
+          unproject(e.clientX, e.clientY)
+        );
 
-        scene.rotateOnWorldAxis(axis, 0.04);
+        scene.applyQuaternion(quaternion);
 
         prevX = e.clientX;
         prevY = e.clientY;
@@ -166,7 +169,7 @@ loader.load(
     function updateOpacity() {
       for (let [i, line] of lineSegments.entries()) {
         const m = line.material as THREE.LineBasicMaterial;
-        m.opacity = i === +slider.value ? 0.05 : 0;
+        m.opacity = i === +slider.value ? 0.1 : 0;
       }
     }
     function resetOpacity() {
@@ -185,9 +188,11 @@ loader.load(
       pressed[e.key] = true;
     };
 
+    let expanded = false;
     window.onkeyup = (e) => {
       pressed[e.key] = false;
       if (e.key === " ") {
+        expanded = !expanded;
         resetOpacity();
         start = Date.now();
       }
@@ -205,9 +210,13 @@ loader.load(
     function animate() {
       const t = Date.now();
       if (start > -1) {
-        const psi = 0.0025 * (Date.now() - start);
+        const psi = 0.002 * (Date.now() - start);
         const u =
-          0.5 * (Math.sin(-Math.PI / 2 + Math.min(2 * Math.PI, psi)) + 1);
+          0.5 *
+          (Math.sin(
+            ((expanded ? -1 : 1) * Math.PI) / 2 + Math.min(Math.PI, psi)
+          ) +
+            1);
         scene.traverse((object) => {
           if (object instanceof THREE.LineSegments) {
             const s = 1 - SCALE_DOWN * u;
@@ -220,7 +229,7 @@ loader.load(
             object.position.set(p.x, p.y, p.z);
           }
         });
-        if (psi > Math.PI * 2) {
+        if (psi > Math.PI) {
           start = -1;
         }
       }

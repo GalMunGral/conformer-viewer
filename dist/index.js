@@ -18087,6 +18087,25 @@ void main() {
       this._useLegacyLights = value;
     }
   };
+  var FogExp2 = class _FogExp2 {
+    constructor(color, density = 25e-5) {
+      this.isFogExp2 = true;
+      this.name = "";
+      this.color = new Color(color);
+      this.density = density;
+    }
+    clone() {
+      return new _FogExp2(this.color, this.density);
+    }
+    toJSON() {
+      return {
+        type: "FogExp2",
+        name: this.name,
+        color: this.color.getHex(),
+        density: this.density
+      };
+    }
+  };
   var Scene = class extends Object3D {
     constructor() {
       super();
@@ -24265,14 +24284,16 @@ void main() {
   slider.min = "0";
   slider.max = "99";
   slider.step = "1";
-  var OFFSET = 8;
-  var SCALE_DOWN = 0.75;
+  var CAMERA_OFFSET = 15;
+  var OFFSET = 20;
+  var SCALE_DOWN = 0.5;
   var DEAFULT_OPACITY = 3e-3;
   var loader = new GLTFLoader();
   var dracoLoader = new DRACOLoader();
   dracoLoader.setDecoderPath("/draco/");
   loader.setDRACOLoader(dracoLoader);
   var scene = new Scene();
+  scene.fog = new FogExp2(0, 1e-3);
   var transparency = true;
   var lineSegments = [];
   loader.load(
@@ -24332,14 +24353,13 @@ void main() {
         object.children?.forEach(getBoundingBox);
       })(scene);
       let center = points.reduce((c, p) => c.add(p), new Vector3()).multiplyScalar(1 / points.length);
-      const offset = 15;
       camera.position.set(
-        center.x + offset,
-        center.y + offset,
-        center.z + offset
+        center.x + CAMERA_OFFSET,
+        center.y + CAMERA_OFFSET,
+        center.z + CAMERA_OFFSET
       );
       camera.up = new Vector3(0, 0, 1);
-      camera.lookAt(center);
+      camera.lookAt(new Vector3());
       let pointerDown = false;
       let prevX = -1;
       let prevY = -1;
@@ -24356,16 +24376,20 @@ void main() {
         if (pointerDown) {
           let unproject2 = function(x, y) {
             const rect = renderer.domElement.getBoundingClientRect();
-            const z = camera.position.clone().multiplyScalar(1 / 10).project(camera).z;
+            const z = camera.position.clone().multiplyScalar(0.2).project(camera).z;
             return new Vector3(
               (x - rect.left) / rect.width * 2 - 1,
               (rect.bottom - y) / rect.height * 2 - 1,
               z
-            ).unproject(camera);
+            ).unproject(camera).normalize();
           };
           var unproject = unproject2;
-          const axis = unproject2(e.clientX, e.clientY).sub(unproject2(prevX, prevY)).cross(camera.getWorldDirection(new Vector3())).normalize();
-          scene.rotateOnWorldAxis(axis, 0.04);
+          const quaternion = new Quaternion();
+          quaternion.setFromUnitVectors(
+            unproject2(prevX, prevY),
+            unproject2(e.clientX, e.clientY)
+          );
+          scene.applyQuaternion(quaternion);
           prevX = e.clientX;
           prevY = e.clientY;
         }
@@ -24373,7 +24397,7 @@ void main() {
       function updateOpacity() {
         for (let [i, line] of lineSegments.entries()) {
           const m = line.material;
-          m.opacity = i === +slider.value ? 0.05 : 0;
+          m.opacity = i === +slider.value ? 0.1 : 0;
         }
       }
       function resetOpacity() {
@@ -24390,9 +24414,11 @@ void main() {
       window.onkeydown = (e) => {
         pressed[e.key] = true;
       };
+      let expanded = false;
       window.onkeyup = (e) => {
         pressed[e.key] = false;
         if (e.key === " ") {
+          expanded = !expanded;
           resetOpacity();
           start = Date.now();
         }
@@ -24409,8 +24435,10 @@ void main() {
       function animate() {
         const t = Date.now();
         if (start > -1) {
-          const psi = 25e-4 * (Date.now() - start);
-          const u = 0.5 * (Math.sin(-Math.PI / 2 + Math.min(2 * Math.PI, psi)) + 1);
+          const psi = 2e-3 * (Date.now() - start);
+          const u = 0.5 * (Math.sin(
+            (expanded ? -1 : 1) * Math.PI / 2 + Math.min(Math.PI, psi)
+          ) + 1);
           scene.traverse((object) => {
             if (object instanceof LineSegments) {
               const s = 1 - SCALE_DOWN * u;
@@ -24420,7 +24448,7 @@ void main() {
               object.position.set(p.x, p.y, p.z);
             }
           });
-          if (psi > Math.PI * 2) {
+          if (psi > Math.PI) {
             start = -1;
           }
         }
