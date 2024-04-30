@@ -24284,10 +24284,10 @@ void main() {
   slider.min = "0";
   slider.max = "99";
   slider.step = "1";
-  var CAMERA_OFFSET = 15;
-  var OFFSET = 20;
-  var SCALE_DOWN = 0.5;
+  var CAMERA_OFFSET = 25;
+  var SCALE_DOWN = 0.8;
   var DEAFULT_OPACITY = 3e-3;
+  var TARGET_OPACITY = 0.01;
   var loader = new GLTFLoader();
   var dracoLoader = new DRACOLoader();
   dracoLoader.setDecoderPath("/draco/");
@@ -24353,11 +24353,7 @@ void main() {
         object.children?.forEach(getBoundingBox);
       })(scene);
       let center = points.reduce((c, p) => c.add(p), new Vector3()).multiplyScalar(1 / points.length);
-      camera.position.set(
-        center.x + CAMERA_OFFSET,
-        center.y + CAMERA_OFFSET,
-        center.z + CAMERA_OFFSET
-      );
+      camera.position.set(0, -CAMERA_OFFSET, 0);
       camera.up = new Vector3(0, 0, 1);
       camera.lookAt(new Vector3());
       let pointerDown = false;
@@ -24417,25 +24413,39 @@ void main() {
       let expanded = false;
       window.onkeyup = (e) => {
         pressed[e.key] = false;
-        if (e.key === " ") {
+        if (e.key === " " && start == -1) {
           expanded = !expanded;
           resetOpacity();
           start = Date.now();
         }
       };
-      for (let mesh of lineSegments) {
-        mesh.userData["scale"] = 0.5 + Math.random();
+      function sampleSphere() {
+        let res = new Vector3(1, 1, 1);
+        while (res.length() > 1) {
+          res = new Vector3(
+            2 * Math.random() - 1,
+            2 * Math.random() - 1,
+            2 * Math.random() - 1
+          );
+        }
+        return res.normalize();
+      }
+      const N = Math.round(Math.sqrt(lineSegments.length));
+      for (let [i, mesh] of lineSegments.entries()) {
+        const x = i % N;
+        const y = Math.floor(i / N);
+        mesh.userData["scale"] = 5;
         mesh.userData["dir"] = new Vector3(
-          Math.random() - 0.5,
-          Math.random() - 0.5,
-          Math.random() - 0.5
-        ).normalize();
+          x - (N - 1) / 2,
+          0,
+          y - (N - 1) / 2
+        );
       }
       let prev = -1;
       function animate() {
         const t = Date.now();
         if (start > -1) {
-          const psi = 2e-3 * (Date.now() - start);
+          const psi = 5e-3 * (Date.now() - start);
           const u = 0.5 * (Math.sin(
             (expanded ? -1 : 1) * Math.PI / 2 + Math.min(Math.PI, psi)
           ) + 1);
@@ -24443,8 +24453,8 @@ void main() {
             if (object instanceof LineSegments) {
               const s = 1 - SCALE_DOWN * u;
               object.scale.set(s, s, s);
-              object.material.opacity = DEAFULT_OPACITY + (5e-3 - DEAFULT_OPACITY) * u;
-              const p = object.userData["dir"].clone().multiplyScalar(object.userData["scale"] * OFFSET * u);
+              object.material.opacity = DEAFULT_OPACITY + (TARGET_OPACITY - DEAFULT_OPACITY) * u ** 10;
+              const p = object.userData["dir"].clone().multiplyScalar(object.userData["scale"] * u);
               object.position.set(p.x, p.y, p.z);
             }
           });
@@ -24453,22 +24463,28 @@ void main() {
           }
         }
         if (!pointerDown) {
-          scene.rotateOnWorldAxis(
-            new Vector3(0, 0, 1),
-            5e-4 * (t - prev)
-          );
+          lineSegments.forEach((mesh) => {
+            mesh.rotateOnWorldAxis(
+              new Vector3(0, 0, 1),
+              1e-3 * (t - prev)
+            );
+          });
         }
         if (prev < 0)
           prev = t;
-        const d = 0.01 * (t - prev);
+        const d = 0.05 * (t - prev);
         if (pressed["w"])
-          camera.translateZ(-d);
+          camera.position.y += d;
         if (pressed["s"])
-          camera.translateZ(d);
-        if (pressed["d"])
-          camera.translateX(d);
-        if (pressed["a"])
-          camera.translateX(-d);
+          camera.position.y -= d;
+        if (pressed["ArrowLeft"])
+          camera.position.x -= d;
+        if (pressed["ArrowRight"])
+          camera.position.x += d;
+        if (pressed["ArrowUp"])
+          camera.position.z += d;
+        if (pressed["ArrowDown"])
+          camera.position.z -= d;
         requestAnimationFrame(animate);
         renderer.render(scene, camera);
         prev = t;

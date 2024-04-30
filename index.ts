@@ -10,10 +10,10 @@ slider.min = "0";
 slider.max = "99";
 slider.step = "1";
 
-const CAMERA_OFFSET = 15;
-const OFFSET = 20;
-const SCALE_DOWN = 0.5;
+const CAMERA_OFFSET = 25;
+const SCALE_DOWN = 0.8;
 const DEAFULT_OPACITY = 0.003;
+const TARGET_OPACITY = 0.01;
 
 // Instantiate a loader
 const loader = new GLTFLoader();
@@ -110,11 +110,7 @@ loader.load(
       .reduce((c, p) => c.add(p), new THREE.Vector3())
       .multiplyScalar(1 / points.length);
 
-    camera.position.set(
-      center.x + CAMERA_OFFSET,
-      center.y + CAMERA_OFFSET,
-      center.z + CAMERA_OFFSET
-    );
+    camera.position.set(0, -CAMERA_OFFSET, 0);
     camera.up = new THREE.Vector3(0, 0, 1);
     camera.lookAt(new THREE.Vector3());
 
@@ -191,41 +187,59 @@ loader.load(
     let expanded = false;
     window.onkeyup = (e) => {
       pressed[e.key] = false;
-      if (e.key === " ") {
+      if (e.key === " " && start == -1) {
         expanded = !expanded;
         resetOpacity();
         start = Date.now();
       }
     };
-    for (let mesh of lineSegments) {
-      mesh.userData["scale"] = 0.5 + Math.random();
+
+    function sampleSphere() {
+      let res = new THREE.Vector3(1, 1, 1);
+      while (res.length() > 1) {
+        res = new THREE.Vector3(
+          2 * Math.random() - 1,
+          2 * Math.random() - 1,
+          2 * Math.random() - 1
+        );
+      }
+      return res.normalize();
+    }
+    const N = Math.round(Math.sqrt(lineSegments.length));
+    for (let [i, mesh] of lineSegments.entries()) {
+      const x = i % N;
+      const y = Math.floor(i / N);
+      // mesh.userData["scale"] = 0.5 + Math.random();
+      mesh.userData["scale"] = 5;
+      // mesh.userData["dir"] = sampleSphere();
       mesh.userData["dir"] = new THREE.Vector3(
-        Math.random() - 0.5,
-        Math.random() - 0.5,
-        Math.random() - 0.5
-      ).normalize();
+        x - (N - 1) / 2,
+        0,
+        y - (N - 1) / 2
+      );
     }
 
     let prev = -1;
     function animate() {
       const t = Date.now();
       if (start > -1) {
-        const psi = 0.002 * (Date.now() - start);
+        const psi = 0.005 * (Date.now() - start);
         const u =
           0.5 *
           (Math.sin(
             ((expanded ? -1 : 1) * Math.PI) / 2 + Math.min(Math.PI, psi)
           ) +
             1);
+
         scene.traverse((object) => {
           if (object instanceof THREE.LineSegments) {
             const s = 1 - SCALE_DOWN * u;
             object.scale.set(s, s, s);
             object.material.opacity =
-              DEAFULT_OPACITY + (0.005 - DEAFULT_OPACITY) * u;
+              DEAFULT_OPACITY + (TARGET_OPACITY - DEAFULT_OPACITY) * u ** 10;
             const p = object.userData["dir"]
               .clone()
-              .multiplyScalar(object.userData["scale"] * OFFSET * u);
+              .multiplyScalar(object.userData["scale"] * u);
             object.position.set(p.x, p.y, p.z);
           }
         });
@@ -234,14 +248,20 @@ loader.load(
         }
       }
       if (!pointerDown) {
-        scene.rotateOnWorldAxis(
-          new THREE.Vector3(0, 0, 1),
-          0.0005 * (t - prev)
-        );
+        // scene.rotateOnWorldAxis(
+        //   new THREE.Vector3(0, 0, 1),
+        //   0.0005 * (t - prev)
+        // );
+        lineSegments.forEach((mesh) => {
+          mesh.rotateOnWorldAxis(
+            new THREE.Vector3(0, 0, 1),
+            0.001 * (t - prev)
+          );
+        });
       }
       if (prev < 0) prev = t;
 
-      const d = 0.01 * (t - prev);
+      const d = 0.05 * (t - prev);
 
       //   const theta = 0.0008 * (t - prev);
       //   if (pressed["ArrowDown"])
@@ -254,10 +274,12 @@ loader.load(
       //     camera.rotateOnAxis(new THREE.Vector3(0, 1, 0), -theta);
       //   if (pressed["q"]) camera.rotateOnAxis(new THREE.Vector3(0, 0, 1), theta);
       //   if (pressed["e"]) camera.rotateOnAxis(new THREE.Vector3(0, 0, 1), -theta);
-      if (pressed["w"]) camera.translateZ(-d);
-      if (pressed["s"]) camera.translateZ(d);
-      if (pressed["d"]) camera.translateX(d);
-      if (pressed["a"]) camera.translateX(-d);
+      if (pressed["w"]) camera.position.y += d;
+      if (pressed["s"]) camera.position.y -= d;
+      if (pressed["ArrowLeft"]) camera.position.x -= d;
+      if (pressed["ArrowRight"]) camera.position.x += d;
+      if (pressed["ArrowUp"]) camera.position.z += d;
+      if (pressed["ArrowDown"]) camera.position.z -= d;
       requestAnimationFrame(animate);
       renderer.render(scene, camera);
       prev = t;
