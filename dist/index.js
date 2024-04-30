@@ -24287,7 +24287,7 @@ void main() {
   var CAMERA_OFFSET = 25;
   var SCALE_DOWN = 0.8;
   var DEAFULT_OPACITY = 3e-3;
-  var TARGET_OPACITY = 0.01;
+  var TARGET_OPACITY = 0.05;
   var loader = new GLTFLoader();
   var dracoLoader = new DRACOLoader();
   dracoLoader.setDecoderPath("/draco/");
@@ -24393,7 +24393,7 @@ void main() {
       function updateOpacity() {
         for (let [i, line] of lineSegments.entries()) {
           const m = line.material;
-          m.opacity = i === +slider.value ? 0.1 : 0;
+          m.opacity = i === +slider.value ? TARGET_OPACITY : 0;
         }
       }
       function resetOpacity() {
@@ -24438,7 +24438,7 @@ void main() {
         mesh.userData["dir"] = new Vector3(
           x - (N - 1) / 2,
           0,
-          y - (N - 1) / 2
+          (N - 1) / 2 - y
         );
       }
       let prev = -1;

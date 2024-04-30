@@ -13,7 +13,7 @@ slider.step = "1";
 const CAMERA_OFFSET = 25;
 const SCALE_DOWN = 0.8;
 const DEAFULT_OPACITY = 0.003;
-const TARGET_OPACITY = 0.01;
+const TARGET_OPACITY = 0.05;
 
 // Instantiate a loader
 const loader = new GLTFLoader();
@@ -165,7 +165,7 @@ loader.load(
     function updateOpacity() {
       for (let [i, line] of lineSegments.entries()) {
         const m = line.material as THREE.LineBasicMaterial;
-        m.opacity = i === +slider.value ? 0.1 : 0;
+        m.opacity = i === +slider.value ? TARGET_OPACITY : 0;
       }
     }
     function resetOpacity() {
@@ -215,7 +215,7 @@ loader.load(
       mesh.userData["dir"] = new THREE.Vector3(
         x - (N - 1) / 2,
         0,
-        y - (N - 1) / 2
+        (N - 1) / 2 - y
       );
     }
 
