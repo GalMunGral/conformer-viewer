@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "build": "esbuild index.ts --bundle --outdir=dist",
-    "dev": "npm run build -- --watch"
+    "dev": "npm run build -- --watch",
+    "dev:vtk": "esbuild vtk.js --format=esm --bundle --outdir=dist --watch"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@kitware/vtk.js": "^30.4.1",
     "draco3d": "^1.5.7",
     "three": "^0.163.0"
   },
