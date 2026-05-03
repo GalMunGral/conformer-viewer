@@ -24,9 +24,11 @@ interactive modality uniquely affords.
 
 ### Opacity calibration
 
-**Problem.** Additive blending requires that opacity scale inversely with
-overlap depth, so that apparent brightness reflects conformational frequency
-rather than dataset size.
+**Problem.** The goal is to visualize the underlying probability distribution
+over conformational space: brighter regions should correspond to higher
+probability mass. Additive blending achieves this only if opacity scales
+inversely with overlap depth — otherwise brightness reflects dataset size
+rather than conformational frequency.
 
 **Model.** Each bond occupies a point in $`\mathbb{R}^3 \times \mathbb{RP}^2`$,
 where $`\mathbb{R}^3`$ gives the midpoint position and $`\mathbb{RP}^2`$ gives
