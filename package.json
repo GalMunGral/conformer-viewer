@@ -2,22 +2,18 @@
   "name": "gltf-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "build": "esbuild index.ts --bundle --outdir=dist",
-    "dev": "npm run build -- --watch",
-    "dev:vtk": "esbuild vtk.js --format=esm --bundle --outdir=dist --watch"
+    "build": "vite build",
+    "dev": "vite"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@kitware/vtk.js": "^30.4.1",
-    "draco3d": "^1.5.7",
     "three": "^0.163.0"
   },
   "devDependencies": {
     "@types/three": "^0.163.0",
-    "esbuild": "^0.20.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "vite": "^5.2.0"
   }
 }
