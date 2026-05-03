@@ -2,7 +2,9 @@
 
 **Live demo:** https://galmungral.github.io/conformer-viewer/
 
-## Goal
+## Rhetorical Design
+
+### Goal
 
 We illustrate that a molecule's geometry is a distribution over conformational
 space, not a fixed structure. We do so through an interactive
@@ -10,7 +12,7 @@ three-dimensional visualization — a modality that affords simultaneous overlay
 of all conformers and animated inspection of individual members, neither of
 which is achievable in static media without loss of the other.
 
-## Strategy
+### Strategy
 
 Conformers are rendered with additive blending, collapsed onto one another,
 encoding frequency as brightness. Pressing **Space** separates them into a
