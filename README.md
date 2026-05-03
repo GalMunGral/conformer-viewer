@@ -22,11 +22,12 @@ contains.
 
 Each bond occupies a point in $`\mathbb{R}^3 \times \mathbb{RP}^2`$, where
 $`\mathbb{R}^3`$ gives the midpoint position and $`\mathbb{RP}^2`$ gives the
-undirected bond orientation. Here $`S^2 = \{ x \in \mathbb{R}^3 : \|x\| = 1 \}`$
-is the unit sphere and $`\mathbb{RP}^2 = S^2 / \{x \sim -x\}`$ is the
-real projective plane, obtained by identifying antipodal points. We estimate
-overlap depth by histogramming over a discretization of this space. Each bond
-is mapped to a bin key
+bond orientation. A direction is an element of
+$`S^2 = \{ x \in \mathbb{R}^3 : \|x\| = 1 \}`$; an orientation ignores which
+end is which, giving an element of $`\mathbb{RP}^2 = S^2 / \{x \sim -x\}`$,
+the real projective plane, obtained by identifying antipodal points. We
+estimate overlap depth by histogramming over a discretization of this space.
+Each bond is mapped to a bin key
 
 $$k(b) = \Bigl(\Bigl\lfloor \mathbf{m}/\varepsilon_p \Bigr\rceil, \Bigl\lfloor \hat{\mathbf{d}}/\varepsilon_d \Bigr\rceil\Bigr)$$
 
