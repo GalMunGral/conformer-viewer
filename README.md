@@ -37,6 +37,5 @@ Two opacities are derived from the histogram:
   $S_i$ is the set of bins belonging to object $i$ — calibrates each conformer
   independently in the exploded view.
 
-This handles dataset heterogeneity: the two included ensembles store geometry
-as one `LineSegments` object per conformer and one per ensemble respectively;
-the histogram gives consistent results in both cases.
+This handles dataset heterogeneity: the two included ensembles have different
+internal layouts, and the histogram gives consistent results in both cases.
