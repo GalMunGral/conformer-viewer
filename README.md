@@ -2,42 +2,52 @@
 
 **Live demo:** https://galmungral.github.io/conformer-viewer/
 
-## Motivation
+## Goal
 
-A conformer ensemble is a set of three-dimensional geometries of the same
-molecule. This viewer renders all conformers simultaneously.
+We illustrate that a molecule's geometry is a distribution over conformational
+space, not a fixed structure. We do so through an interactive
+three-dimensional visualization — a modality that affords simultaneous overlay
+of all conformers and animated inspection of individual members, neither of
+which is achievable in static media without loss of the other.
 
-## Approach
+## Strategy
 
-Conformers are rendered with additive blending, collapsed onto one another.
-Pressing **Space** explodes them into a cubic grid. The transition is animated
-so the correspondence between the ensemble and its members is preserved.
+Conformers are rendered with additive blending, collapsed onto one another,
+encoding frequency as brightness. Pressing **Space** separates them into a
+cubic grid. The animated transition makes the correspondence between the
+ensemble and its members explicit — this is the rhetorical function the
+interactive modality uniquely affords.
 
-## Opacity calibration
+## Technical Challenges
 
-Additive blending requires that opacity scale inversely with overlap depth,
-so that apparent brightness reflects how frequently a bond appears at a given
-location across the ensemble rather than how many conformers the dataset
-contains.
+### Opacity calibration
 
-Each bond occupies a point in $`\mathbb{R}^3 \times \mathbb{RP}^2`$, where
-$`\mathbb{R}^3`$ gives the midpoint position and $`\mathbb{RP}^2`$ gives the
-bond orientation. A direction is an element of
+**Problem.** Additive blending requires that opacity scale inversely with
+overlap depth, so that apparent brightness reflects conformational frequency
+rather than dataset size.
+
+**Model.** Each bond occupies a point in $`\mathbb{R}^3 \times \mathbb{RP}^2`$,
+where $`\mathbb{R}^3`$ gives the midpoint position and $`\mathbb{RP}^2`$ gives
+the bond orientation. A direction is an element of
 $`S^2 = \{ x \in \mathbb{R}^3 : \|x\| = 1 \}`$; an orientation ignores which
 end is which, giving an element of $`\mathbb{RP}^2 = S^2 / \{x \sim -x\}`$,
-the real projective plane, obtained by identifying antipodal points. We
-estimate overlap depth by histogramming over a discretization of this space.
-Each bond is mapped to a bin key
+the real projective plane. We estimate overlap depth by histogramming over a
+discretization of this space.
+
+**Assumption.** No two bonds within a single conformer share a position and
+orientation.
+
+**Key observation.** Under this assumption, the bin count equals the number
+of conformers contributing that bond.
+
+**Algorithm.** Each bond is mapped to a bin key
 
 $$k(b) = \Bigl(\Bigl\lfloor \mathbf{m}/\varepsilon_p \Bigr\rceil, \Bigl\lfloor \hat{\mathbf{d}}/\varepsilon_d \Bigr\rceil\Bigr)$$
 
 where $`\mathbf{m} \in \mathbb{R}^3`$ is the bond midpoint,
 $`\hat{\mathbf{d}} \in \mathbb{RP}^2`$ is represented by the sign-normalized
-unit vector (so $`A \to B`$ and $`B \to A`$ hash identically), and
-$`\lfloor \cdot \rceil`$ denotes componentwise rounding. The bin count $`n(k)`$
-measures overlap depth at position $`k`$.
-
-Two opacities are derived from the histogram:
+unit vector, and $`\lfloor \cdot \rceil`$ denotes componentwise rounding. Two
+opacities are derived from the resulting histogram:
 
 - **Global opacity** $`\alpha_\text{glob} = \alpha_0 / \max_k n(k)`$ — calibrates the collapsed view.
 - **Local opacity** $`\alpha_i = \alpha_0 / \max_{k \in S_i} n(k)`$, where
